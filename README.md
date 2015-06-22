@@ -4,7 +4,7 @@ Temporary vim distro for use in CS332 group project
 The following commands will download vim settings and plugins in this repo, then extract to `~/.vim` and `~/.vimrc`
 
     $ cd ~
-    $ wget https://github.com/NLKNguyen/vim-distro/raw/master/vim-distro.tar.bz2
+    $ wget --no-check-certificate https://github.com/NLKNguyen/vim-distro/raw/master/vim-distro.tar.bz2
     $ tar xvfj vim-distro.tar.bz2
 
 **PHP**
